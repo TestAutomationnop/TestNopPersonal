@@ -1,1 +1,1 @@
-python -m pytest -s -v -m "regression" .\TestCases\ --html=Reports\report.html
+python -m pytest -s -v -m "sanity" .\TestCases\ --html=Reports\report.html
